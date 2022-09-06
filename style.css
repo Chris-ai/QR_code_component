@@ -43,7 +43,7 @@ main{
     height: 260px;
     margin: .6rem;
     border-radius: 10px;
-    background-image: url('/images/image-qr-code.png');
+    background-image: url('./images/image-qr-code.png');
     background-size: contain;
 }
 
